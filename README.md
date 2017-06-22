@@ -8,4 +8,4 @@ This is a simple recipe book I was making. The project is not dead. I just stopp
 * Be able to edit the recipe and save.
 * Have a profile where other's can save recipes to their profile
 
-[ ] Just testing out a feature that is all
+-[ ] Just testing out a feature that is all
