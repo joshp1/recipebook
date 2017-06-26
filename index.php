@@ -26,3 +26,5 @@ recipe book
 			echo $sml->procedures."<br />";
 	}	}
 	closedir ($fo);?>
+</body>
+</html>
