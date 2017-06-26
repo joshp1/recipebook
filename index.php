@@ -25,4 +25,4 @@ recipe book
 			echo "cooking procedure:<br/>";
 			echo $sml->procedures."<br />";
 	}	}
-	closedir ($fo);?>
+	closedir ($fo);?></body></html>
