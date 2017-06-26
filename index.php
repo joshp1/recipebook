@@ -1,7 +1,14 @@
+<html>
+<head>
+<title>
+recipe book
+</title>
+<body>
+	
 <?php	$fo=opendir ("./book/");
 	while ($of = readdir ($fo))
 	{	if ($of != "."&&$of !="..")
-		{	echo $of."<br />";
+		{	echo "<h1>".$of."</h1>";
 			$sml = simplexml_load_file ('book/'.$of);
 			echo "name of recipe:";
 			echo "<br />";
